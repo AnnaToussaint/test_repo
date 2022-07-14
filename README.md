@@ -1,2 +1,2 @@
 # test_repo
-A test repository for an eDX course. 
+A simple test repository for an eDX course. 
